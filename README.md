@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catarina Coelho <img alt="catgif" height="80px" width="80px" align="center" src="https://media.tenor.com/ipuTozw3PXsAAAAi/pixel-cat.gif"></img></h1>
-<h3 align="center">Just an Systems Analysis and Development student trying to have fun with coding!</h3>
+<h3 align="center">Just a Systems Analysis and Development student trying to have fun with coding!</h3>
 
 - 🌱 I’m currently learning **JavaScript, Phyton, Java...**
 

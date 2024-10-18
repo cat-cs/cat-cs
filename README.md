@@ -8,9 +8,8 @@
 - ⚡ Fun fact **I almost got a Psychology degree before discovering that i liked programing more than people...**
 
 <div>
-
-<h2 align="left">Languages and Tools:</h2>
-<img alt="catgif" align="right" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
+<h2 align="left">Languages and Tools</h2>
+<img alt="catgif" align="right" height="460px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
 <img alt="javascript"  height="60px" width="60px" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000"></img>
 <img alt="html" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000"></img>
 <img alt="css" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"></img>
@@ -20,10 +19,22 @@
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cat-cs&show_icons=true&theme=synthwave&title_color=c822ff&text_color=1a6dff&locale=en&layout=compact" alt="cat-cs" /></p>
-</br>
+
+<br>
+<div>
+<h3 align="left" >Check my projects below ⬇️ </h3>
+<p><img height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 1" style="display:inline-block; margin-right: 10px;" />
+<a href="https://github.com/cat-cs/projetos-academicos-PUCGO" target="_blank">
+<strong>Academic Projects</strong></a>
+</p>
+<p><img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 2" style="display:inline-block; margin-right: 10px;" />
+<a href="https://github.com/cat-cs/Projetos" target="_blank" >
+<strong>Projects</strong> </a>
+</p>
+</div>
 
 <div align="left">
-<h3 >Connect with me:</h3>
+<h2 >Connect with me</h2>
 <p>
 <a href="https://linkedin.com/in/catarinacoelhodasilva" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="linkedin" /></a>
 <a href="mailto:k.tarina56@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" alt="gmail" /></a>

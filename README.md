@@ -9,7 +9,7 @@
 
 <div>
 <h2 align="left">Languages and Tools</h2>
-<img alt="catgif" align="right" height="460px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
+<img alt="catgif" align="right" height="450px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
 <img alt="javascript"  height="60px" width="60px" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000"></img>
 <img alt="html" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000"></img>
 <img alt="css" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"></img>

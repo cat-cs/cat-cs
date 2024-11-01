@@ -28,9 +28,13 @@
 <strong>Academic Projects</strong></a>
 </p>
 <p><img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 2" style="display:inline-block; margin-right: 10px;" />
-<a href="https://github.com/cat-cs/Projetos" target="_blank" >
-<strong>Projects</strong> </a>
+<a href="https://github.com/cat-cs/projetos-frontend" target="_blank" >
+<strong>Front-end Projects</strong> </a>
 </p>
+<p><img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Jogo Detona Ralph" style="display:inline-block; margin-right: 10px;" />
+<a href="https://github.com/cat-cs/detona-ralph-game" target="_blank" >
+<strong>Detona Ralph Game</strong> </a>
+</p>  
 </div>
 
 <div align="left">

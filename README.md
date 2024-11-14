@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-end development, Phyton, Java, SQL...**
 
-- 👀 I’m interested in **Full-stack and Game development...**
+- 👀 I’m interested in **Full-stack and Web development...**
 
 - ⚡ Fun fact **I almost got a Psychology degree before discovering that i liked programing more than people...**
 

@@ -32,8 +32,8 @@
 <strong>Front-end Projects</strong> </a>
 </p>
 <p><img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Jogo Detona Ralph" style="display:inline-block; margin-right: 10px;" />
-<a href="https://github.com/cat-cs/detona-ralph-game" target="_blank" >
-<strong>Detona Ralph Game</strong> </a>
+<a href="https://github.com/cat-cs/pokedex-js" target="_blank" >
+<strong>Pokedex</strong> </a>
 </p>  
 </div>
 

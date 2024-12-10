@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Catarina Coelho <img alt="catgif" height="80px" width="80px" align="center" src="https://media.tenor.com/ipuTozw3PXsAAAAi/pixel-cat.gif"></img></h1>
 <h3 align="center">Just a Systems Analysis and Development student trying to have fun with coding!</h3>
 
-- 🌱 I’m currently learning **Front-end development, Phyton, Java, SQL...**
+- 🌱 I’m currently learning **Front-end development, Phyton, JavaScript, SQL...**
 
 - 👀 I’m interested in **Full-stack and Web development...**
 
 - ⚡ Fun fact **I almost got a Psychology degree before discovering that i liked programing more than people...**
 
+
 <div>
 <h2 align="left">Languages and Tools</h2>
-<img alt="catgif" align="right" height="450px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
 <img alt="javascript"  height="60px" width="60px" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000"></img>
 <img alt="html" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000"></img>
 <img alt="css" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"></img>
 <img alt="python" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000"></img>
 <img alt="java" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000"></img>
+<img alt="catgif" align="right" height="300px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
 </div>
 
 <br>
@@ -22,28 +23,34 @@
 
 <br>
 <div>
-<h3 align="left" >Check my projects below ⬇️ </h3>
-<p><img height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 1" style="display:inline-block; margin-right: 10px;" />
+<h2>Check my projects below ⬇️ </h2>
+<span>
+<img height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 1"/>
 <a href="https://github.com/cat-cs/projetos-academicos-PUCGO" target="_blank">
 <strong>Academic Projects</strong></a>
-</p>
-<p><img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 2" style="display:inline-block; margin-right: 10px;" />
+</span> &nbsp; &nbsp;
+  
+<span>
+<img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 2"/>
 <a href="https://github.com/cat-cs/projetos-frontend" target="_blank" >
 <strong>Front-end Projects</strong> </a>
-</p>
-<p><img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Jogo Detona Ralph" style="display:inline-block; margin-right: 10px;" />
+</span> &nbsp; &nbsp;
+
+<span >
+<img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Pokedex"/>
 <a href="https://github.com/cat-cs/pokedex-js" target="_blank" >
 <strong>Pokedex</strong> </a>
-</p>  
-</div>
+</span>  
+</div>&nbsp;
 
 <div align="left">
 <h2 >Connect with me</h2>
-<p>
+<span>
 <a href="https://linkedin.com/in/catarinacoelhodasilva" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="linkedin" /></a>
 <a href="mailto:k.tarina56@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" alt="gmail" /></a>
-</p>
+</span>
 </div>
 
-<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<img align="center" src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
+
+

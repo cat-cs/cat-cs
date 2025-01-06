@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Catarina Coelho <img alt="catgif" height="80px" width="80px" align="center" src="https://media.tenor.com/ipuTozw3PXsAAAAi/pixel-cat.gif"></img></h1>
 <h3 align="center">Just a Systems Analysis and Development student trying to have fun with coding!</h3>
 
-- 🌱 I’m currently learning **Front-end development, Phyton, JavaScript, SQL...**
+- 🌱 I’m currently learning **JavaScript, Phyton, Machine Learning and AI...**
 
-- 👀 I’m interested in **Full-stack and Web development...**
+- 👀 I’m interested in **Full-stack development and Data Analysis...**
 
 - ⚡ Fun fact **I almost got a Psychology degree before discovering that i liked programing more than people...**
 

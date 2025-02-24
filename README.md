@@ -36,6 +36,12 @@
 <strong>Front-end Projects</strong> </a>
 </span> &nbsp; &nbsp;
 
+<span>
+<img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Repositório 2"/>
+<a href="https://github.com/cat-cs/python-projects" target="_blank" >
+<strong>Python and Data Projects</strong> </a>
+</span> &nbsp; &nbsp;
+
 <span >
 <img  height="25px" width="25px" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="Pokedex"/>
 <a href="https://github.com/cat-cs/pokedex-js" target="_blank" >

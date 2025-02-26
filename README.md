@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 sou Catarina Coelho <img alt="catgif" height="80px" width="80px" align="center" src="https://media.tenor.com/ipuTozw3PXsAAAAi/pixel-cat.gif"></img></h1>
 <img alt="catgif" align="right" height="110px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
 
-
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na **PUC - Goiás**.
 - 🌱 Estou aprendendo **Phyton, Machine Learning, Power BI...**
 - 👀 Meus interesses são **Análise de Dados e Fullstack...**
 

@@ -2,8 +2,8 @@
 <img alt="catgif" align="right" height="110px" src="https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif"></img>
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na **PUC - Goiás**.
-- 🌱 Estou aprendendo **Phyton, Machine Learning, Power BI...**
-- 👀 Meus interesses são **Análise de Dados e Fullstack...**
+- 🌱 Estou aprendendo **React, Angular, Flask...**
+- 👀 Meus interesses são **Desenvolvimento Fullstack...**
 
 
 ## Linguagens e Ferramentas
@@ -18,11 +18,11 @@
 
 ### 🎓 [Projetos Acadêmicos](https://github.com/cat-cs/projetos-academicos-PUCGO)
 - **Descrição:** Uma coleção de projetos desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas.
-- **Tecnologias:** Java, Python, SQL.
+- **Tecnologias:** Java, Python, SQL, Flutter, ThinkerCad.
 
 ### 🌐 [Projetos Front-end](https://github.com/cat-cs/projetos-frontend)
 - **Descrição:** Projetos focados no desenvolvimento web de interfaces de usuário responsivas e interativas.
-- **Tecnologias:** HTML, CSS, JavaScript.
+- **Tecnologias:** HTML, CSS, JavaScript, React.
 
 ### 🐍 [Projetos Python e Análise de Dados](https://github.com/cat-cs/python-projects)
 - **Descrição:** Projetos que envolvem análise de dados, automação e desenvolvimento de scripts em Python.

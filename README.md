@@ -10,9 +10,17 @@
 <img alt="javascript"  height="60px" width="60px" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000"></img>
 <img alt="html" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000"></img>
 <img alt="css" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"></img>
+<img alt="react" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000"></img>
 <img alt="python" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000"></img>
 <img alt="java" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000"></img>
 <img alt="sql" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000"></img>
+
+## Projetos em Destaque ⬇️
+
+### 🐾 [Pokedex](https://github.com/cat-cs/pokedex-js)
+- **Descrição:** Uma Pokedex interativa desenvolvida com JavaScript.
+- **Tecnologias:** JavaScript, HTML, CSS.
+- 🔗 Acesse a Pokedex online [aqui](https://cat-cs.github.io/pokedex-js/).
 
 ## Repositórios Ativos ⬇️
 
@@ -28,9 +36,6 @@
 - **Descrição:** Projetos que envolvem análise de dados, automação e desenvolvimento de scripts em Python.
 - **Tecnologias:** Python, Pandas, Matplotlib.
 
-### 🐾 [Pokedex](https://github.com/cat-cs/pokedex-js)
-- **Descrição:** Uma Pokedex interativa desenvolvida com JavaScript.
-- **Tecnologias:** JavaScript, HTML, CSS.
 
 
 ## Entre em Contato aqui

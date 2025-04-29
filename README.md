@@ -3,7 +3,7 @@
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na **PUC - Goiás**.
 - 🌱 Estou aprendendo **React, Angular, Flask...**
-- 👀 Meus interesses são **Desenvolvimento Fullstack...**
+- 👀 Meus interesses são **Desenvolvimento Fullstack e Análise de Dados...**
 
 
 ## Linguagens e Ferramentas

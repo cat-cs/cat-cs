@@ -35,7 +35,7 @@
 
 ### 🐍 [Projetos Python e Análise de Dados](https://github.com/cat-cs/python-projects)
 - **Descrição:** Projetos que envolvem análise de dados, automação e desenvolvimento de scripts em Python.
-- **Tecnologias:** Python, Pandas, Matplotlib.
+- **Tecnologias:** Python, Pandas, Matplotlib, Streamlit.
 
 
 

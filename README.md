@@ -11,6 +11,7 @@
 <img alt="html" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000"></img>
 <img alt="css" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000"></img>
 <img alt="react" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000"></img>
+<img alt="tailwind-css" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000"></img>
 <img alt="python" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000"></img>
 <img alt="java" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000"></img>
 <img alt="sql" height="60px" width="60px" src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000"></img>
@@ -30,7 +31,7 @@
 
 ### 🌐 [Projetos Front-end](https://github.com/cat-cs/projetos-frontend)
 - **Descrição:** Projetos focados no desenvolvimento web de interfaces de usuário responsivas e interativas.
-- **Tecnologias:** HTML, CSS, JavaScript, React.
+- **Tecnologias:** HTML, CSS, JavaScript, React, TailwindCSS
 
 ### 🐍 [Projetos Python e Análise de Dados](https://github.com/cat-cs/python-projects)
 - **Descrição:** Projetos que envolvem análise de dados, automação e desenvolvimento de scripts em Python.
